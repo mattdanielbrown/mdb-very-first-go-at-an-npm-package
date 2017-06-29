@@ -1,0 +1,41 @@
+temp makdown ::::: outpu =t of    |   npm init   |    command::
+
+
+
+                    ee `npm help json` for definitive documentation on these fields
+                    and exactly what they do.
+
+                    Use `npm install <pkg> --save` afterwards to install a package and
+                    save it as a dependency in the package.json file.
+
+                    Press ^C at any time to quit.
+                    name: (001) mdb-very-first-go-at-an-npm-package
+                    version: (1.0.0)
+                    description: Just trying some shit out.
+                    entry point: (index.js)
+                    test command:
+                    git repository:
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                      >>:  npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg> --save` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+name: (001) mdb-very-first-go-at-an-npm-package
+version: (1.0.0)
+description: Just trying some shit out.
+entry point: (index.js)
+test command:
+git repository: https://github.com/mattdanielbrown/mdb-very-first-go-at-an-npm-package
